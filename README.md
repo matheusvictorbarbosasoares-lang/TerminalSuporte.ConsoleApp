@@ -1,5 +1,6 @@
 # TerminalSuporte.ConsoleApp
 Funcionando
+
 <img width="567" height="393" alt="image" src="https://github.com/user-attachments/assets/81ce53b9-0bb8-4f65-b07f-3396e4ca40ff" />
 
 <img width="557" height="464" alt="image" src="https://github.com/user-attachments/assets/f82a5f90-980a-4bd1-b69e-e178b11f1685" />
