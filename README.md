@@ -7,6 +7,7 @@ Funcionando
 
 <img width="491" height="345" alt="image" src="https://github.com/user-attachments/assets/4384b44d-175e-4545-b5f7-3b21eed8ac21" />
 
+
 <img width="405" height="351" alt="image" src="https://github.com/user-attachments/assets/47148a31-7492-4b97-ac68-6ea7c7a696dd" />
 
 
